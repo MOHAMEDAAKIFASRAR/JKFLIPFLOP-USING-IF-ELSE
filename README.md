@@ -47,11 +47,11 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
  6.Run the program.
  
 **PROGRAM**
-
-
-Developed by :Abinaya A
-Reg no:212223040003
 ```
+
+Developed by : Mohamed aakif asrar S
+Reg no:212223240088
+
 module JK(q, qb,j,k,clock,reset);
     input j,k,clock,reset;
     output reg q, qb;
